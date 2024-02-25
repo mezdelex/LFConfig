@@ -1,5 +1,9 @@
 # LF Config
 
+- OS: Windows 11
+- Terminal: Windows Terminal
+- Shell: PowerShell Core
+
 ## Setup
 
 - Install `lf` via `scoop install lf`
