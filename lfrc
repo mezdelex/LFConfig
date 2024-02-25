@@ -1,0 +1,12 @@
+# Keymaps
+map R reload
+map d delete
+map md mkdir
+map x cut
+
+# Options
+set colors
+set cursorpreviewfmt "\033[7m"
+set drawbox
+set hidden
+set icons
