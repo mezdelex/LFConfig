@@ -14,3 +14,4 @@
 | Icons            | [repo](https://github.com/gokcehan/lf/blob/master/etc/icons.example)  | [icons](https://github.com/mezdelex/LFConfig/tree/main/icons)   |
 
 ## Images
+![image](https://github.com/mezdelex/LFConfig/assets/59997405/dbd25799-2d4d-409c-b5e1-ff2bb5361690)
