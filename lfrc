@@ -4,7 +4,6 @@ map d delete
 map x cut
 
 # Options
-set colors
 set cursorpreviewfmt "\033[7m"
 set drawbox
 set hidden
