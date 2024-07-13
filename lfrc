@@ -7,3 +7,4 @@ set cursorpreviewfmt "\033[7m"
 set drawbox
 set hidden
 set icons
+set previewer chafa
